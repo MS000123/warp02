@@ -1,5 +1,6 @@
 # warp02
-### hello
+### info
 * author: MS
+* University: PJATK
 * adres: gd
 #
